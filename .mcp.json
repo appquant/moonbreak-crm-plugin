@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "moonbreak": { "type": "http", "url": "https://spxy-preview-git-feat-ai-chat-v2-superproxy-dev.vercel.app/api/mcp" }
+  }
+}

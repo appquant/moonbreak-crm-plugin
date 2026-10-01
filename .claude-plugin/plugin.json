@@ -4,5 +4,6 @@
   "version": "0.1.0",
   "description": "Work with your Moonbreak CRM from Claude: turn a call into a quote, chase overdue invoices, review the pipeline and prepare for meetings, with a clear yes from you before anything is sent.",
   "author": { "name": "Moonbreak" },
+  "privacyPolicyUrl": "https://moonbreak.com/privacy",
   "repository": "https://github.com/appquant/moonbreak-crm-plugin"
 }
